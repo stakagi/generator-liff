@@ -1,0 +1,15 @@
+{
+  "name": "generator-liff",
+  "version": "0.0.1",
+  "description": "LINE Frontend Framework(LIFF) application template generator for Yeoman",
+  "author": "stakagi",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
